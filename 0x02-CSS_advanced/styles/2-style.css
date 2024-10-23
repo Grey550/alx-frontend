@@ -1,0 +1,15 @@
+body {
+    color: #161616;   
+}
+a {
+    color: #161616;
+}
+main .visually-hidden {
+    display: none;
+}
+#latest-news > .card-category {
+    color: #D73953;
+}
+.section-tagline {
+    color: #D73953;
+}
