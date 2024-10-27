@@ -206,6 +206,6 @@
     }
 
     [class*="col-"] {
-        float: right;
+        float: left;
         padding: 0.5rem;
     }
