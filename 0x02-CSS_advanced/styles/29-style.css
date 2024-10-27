@@ -249,7 +249,7 @@ ul.row {
     color: var(--nav-item-link-hover);
 }
 
-.nav .nav-link:before {
+.nav .nav-link::before {
     content: "";
     position: absolute;
     bottom: 0;
@@ -259,10 +259,9 @@ ul.row {
     height: 0.2rem;
 }
 
-.nav .nav-item:hover .nav-link:before {
+.nav .nav-item:hover .nav-link::before {
     background-color: var(--color-primary);
     width: 100%;
-
 }
 
 .footer-copyright {
