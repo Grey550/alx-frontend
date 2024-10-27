@@ -4,6 +4,7 @@
 
 
   /* Custom styles */
+
   *,
   *::before,
   *::after {
@@ -111,7 +112,6 @@
   
   .section-body {
       padding: var(--section-body-padding);
-  
   }
   
   .section-footer {
@@ -160,9 +160,8 @@
 
   }
 
-  .footer .social-item .nav-item {
-    text-align: right;
-    
+  .footer ul{
+    text-align: right; 
 
   }
 
